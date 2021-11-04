@@ -19,7 +19,8 @@ To add the database to MySQL:
   mysql -u root -p
     (enter your MySQL password)
   source db/schema.sql
-  show databases; (to make sure it worked)
+  show databases;
+    (to make sure it worked)
   use ecommerce_db
   quit
 ```
